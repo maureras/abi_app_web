@@ -1,4 +1,6 @@
 # Proyecto PEA Laravel - Vue
+Implementar un sistema básico de autenticación de usuarios utilizando Laravel para el backend y Vue.js para el frontend.
+
 ## Instalación del software
 
 - Creamos el proyecto en laravel con el nombre de autenticar
