@@ -19,7 +19,7 @@ php artisan breeze:install
 - [+] dark support mode (No)
 - [+] PHPUnit
 
--Se instala node.js
+- Se instala node.js
 ```ms-dos
 npm install
 ```
