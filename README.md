@@ -15,9 +15,9 @@ composer require laravel/breeze --dev
 ```ms-dos
 php artisan breeze:install
 ```
-- [+] blade
-- [+] dark support mode (No)
-- [+] PHPUnit
+	- [+] blade
+	- [+] dark support mode (No)
+	- [+] PHPUnit
 
 - Se instala node.js
 ```ms-dos
