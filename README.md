@@ -350,18 +350,21 @@ Registro:
 http://localhost:8000/register
 ```
 
-![[Pasted image 20240605163930.png]]
+![image](https://github.com/maureras/abi_app_web/assets/9979555/6e0cd047-5ee8-4991-8466-3ae5515af4f0)
+
 
 Login:
 ```link
 http://localhost:8000/login
 ```
 
-![[Pasted image 20240605164011.png]]
+![image](https://github.com/maureras/abi_app_web/assets/9979555/91c8594f-4720-4601-9efa-46a895712d24)
+
 
 Profile:
 ```link
 http://localhost:8000/profile
 ```
-![[Pasted image 20240605164104.png]]
+![image](https://github.com/maureras/abi_app_web/assets/9979555/8e1e619d-c8ef-483f-9f20-08efed3f6e67)
+
 
